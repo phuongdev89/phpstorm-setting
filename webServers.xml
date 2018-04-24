@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed705789-29f8-44e9-9718-b8536f9b5c35" name="navademo.com" url="http://navademo.com/megadoc-vn">
+        <fileTransfer mountedRoot="Z:\" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
