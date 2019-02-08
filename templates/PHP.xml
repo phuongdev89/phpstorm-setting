@@ -1,0 +1,10 @@
+<templateSet group="PHP">
+  <template name="fori" value="for ($VAR1$ = $VALUE$; $VAR1$ &lt;= $VAR2$; $VAR1$ ++) {&#10;    $END$&#10;}" description="for($i = 0; $i &lt;= $j;$i++){...}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="$i" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="0" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
