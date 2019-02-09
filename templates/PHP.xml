@@ -7,4 +7,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="prir" value="echo '&lt;pre&gt;';&#10;print_r($VAR$);&#10;die;" description="echo '&lt;pre&gt;';print_r(...);die;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
