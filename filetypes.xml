@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern=".license" type="PLAIN_TEXT" />
+      <mapping pattern=".port" type="PLAIN_TEXT" />
       <mapping pattern="Checking" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
