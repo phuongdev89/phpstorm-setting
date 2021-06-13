@@ -199,6 +199,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="TronWeb" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost_TronWeb.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost_TronWeb.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
