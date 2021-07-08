@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="priv" type="AUTO_DETECTED" />
       <mapping pattern="0x10dd2b2ca8870d1ff0433a42864da6bd1fd87ba6" type="AUTO_DETECTED" />
+      <mapping pattern="redis_init_script" type="AUTO_DETECTED" />
       <mapping pattern="0xbf4078b53b8a9da0bbe3f8d3635da16b58b9ac94" type="AUTO_DETECTED" />
       <mapping pattern="0x74b4b495a1e1dfd4e7ef021c211aaaf787d46c43" type="AUTO_DETECTED" />
       <mapping pattern="+84936219260" type="AUTO_DETECTED" />
