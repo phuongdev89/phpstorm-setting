@@ -132,6 +132,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jk61uv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_biptv.postaffiliatepro.com_scripts_jk61uv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_biptv.postaffiliatepro.com_scripts_jk61uv.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
