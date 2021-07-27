@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Boolean/Flip comparison" />
     <ignoreAction name="PHP/Replace if clause with ternary expression" />
+    <ignoreAction name="PHP/Import Class as Alias" />
   </component>
 </application>
