@@ -1,20 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="0xbf4078b53b8a9da0bbe3f8d3635da16b58b9ac94" type="AUTO_DETECTED" />
-      <mapping pattern="0x66d1aa00456eef25e195985badf0473be8b7f16247e6f7c810af34105a3d1439" type="AUTO_DETECTED" />
-      <mapping pattern="0x2b19917b0c0b73c63b833bc37b321d6be63a57ce" type="AUTO_DETECTED" />
       <mapping pattern="0x10dd2b2ca8870d1ff0433a42864da6bd1fd87ba6" type="AUTO_DETECTED" />
       <mapping pattern="priv" type="AUTO_DETECTED" />
-      <mapping pattern="0x74b4b495a1e1dfd4e7ef021c211aaaf787d46c43" type="AUTO_DETECTED" />
-      <mapping pattern="+84936219260" type="AUTO_DETECTED" />
+      <mapping pattern="0x66d1aa00456eef25e195985badf0473be8b7f16247e6f7c810af34105a3d1439" type="AUTO_DETECTED" />
       <mapping pattern="redis_init_script" type="AUTO_DETECTED" />
+      <mapping pattern="0xbf4078b53b8a9da0bbe3f8d3635da16b58b9ac94" type="AUTO_DETECTED" />
+      <mapping pattern="0x74b4b495a1e1dfd4e7ef021c211aaaf787d46c43" type="AUTO_DETECTED" />
+      <mapping pattern="0x2b19917b0c0b73c63b833bc37b321d6be63a57ce" type="AUTO_DETECTED" />
+      <mapping pattern="+84936219260" type="AUTO_DETECTED" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="Checking" type="PLAIN_TEXT" />
-      <mapping pattern=".port" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".license" type="PLAIN_TEXT" />
+      <mapping pattern=".port" type="PLAIN_TEXT" />
+      <mapping pattern="Checking" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".xtreamcodes" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="535z--7d30a4b75bb29c65cd02eb5b82200f216f49ce03" type="PLAIN_TEXT" />
