@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="git" type="AUTO_DETECTED" />
       <mapping pattern="0x10dd2b2ca8870d1ff0433a42864da6bd1fd87ba6" type="AUTO_DETECTED" />
       <mapping pattern="priv" type="AUTO_DETECTED" />
       <mapping pattern="0x66d1aa00456eef25e195985badf0473be8b7f16247e6f7c810af34105a3d1439" type="AUTO_DETECTED" />
