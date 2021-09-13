@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Boolean/Flip comparison" />
+    <ignoreAction name="PHP/Replace if clause with ternary expression" />
+  </component>
+</application>
