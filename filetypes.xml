@@ -7,6 +7,7 @@
       <mapping pattern="0x10dd2b2ca8870d1ff0433a42864da6bd1fd87ba6" type="AUTO_DETECTED" />
       <mapping pattern="priv" type="AUTO_DETECTED" />
       <mapping pattern="0x74b4b495a1e1dfd4e7ef021c211aaaf787d46c43" type="AUTO_DETECTED" />
+      <mapping pattern="+84829980523" type="AUTO_DETECTED" />
       <mapping pattern="+84936219260" type="AUTO_DETECTED" />
       <mapping pattern="git" type="AUTO_DETECTED" />
       <mapping pattern="redis_init_script" type="AUTO_DETECTED" />
