@@ -26,6 +26,8 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="ipc" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="SQL" />
+      <mapping pattern="b" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
