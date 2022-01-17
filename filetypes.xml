@@ -25,6 +25,7 @@
       <mapping ext="ai" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="ipc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="SQL" />
       <mapping pattern="b" type="SQL" />
