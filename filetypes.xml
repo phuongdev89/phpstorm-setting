@@ -18,6 +18,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".license" type="PLAIN_TEXT" />
       <mapping pattern=".xtreamcodes" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="535z--7d30a4b75bb29c65cd02eb5b82200f216f49ce03" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
