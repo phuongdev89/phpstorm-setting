@@ -12,6 +12,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="UsageViewSettings">
+    <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Desktop/report.txt" />
     <option name="IS_EXPANDED" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.4640592" />
   </component>
