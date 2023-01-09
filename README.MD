@@ -1,0 +1,11 @@
+Plugins
+-------
+- Symfony Support
+- PHP Annotations
+- .ignore
+- PHP Advanced AutoComplete
+- Yii2 Support
+- Yii2 Inspections
+- Ideolog
+- Bootstrap 3
+- Bootstrap 4
