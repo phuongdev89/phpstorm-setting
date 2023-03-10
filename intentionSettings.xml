@@ -1,6 +1,9 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Boolean/Flip comparison" />
-    <ignoreAction name="PHP/Replace if clause with ternary expression" />
+    <ignoreAction name="PHP/Unimport class" />
+    <ignoreAction name="PHP/Make 'protected'" />
+    <ignoreAction name="PHP/Make 'private'" />
+    <ignoreAction name="PHP/Create new PHP Test" />
+    <ignoreAction name="PHP/Replace with alias" />
   </component>
 </application>
