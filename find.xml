@@ -14,7 +14,6 @@
     <mask>*.module</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.jsx</mask>
     <mask>*.php</mask>
   </component>
 </application>
