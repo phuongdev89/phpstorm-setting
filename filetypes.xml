@@ -9,6 +9,7 @@
       <mapping pattern="init" type="AUTO_DETECTED" />
       <mapping pattern="0x74b4b495a1e1dfd4e7ef021c211aaaf787d46c43" type="AUTO_DETECTED" />
       <mapping pattern="+84829980523" type="AUTO_DETECTED" />
+      <mapping pattern="task" type="AUTO_DETECTED" />
       <mapping pattern="+84936219260" type="AUTO_DETECTED" />
       <mapping pattern="git" type="AUTO_DETECTED" />
       <mapping pattern="redis_init_script" type="AUTO_DETECTED" />
@@ -36,16 +37,28 @@
       <mapping pattern="b" type="SQL" />
       <mapping ext="volt" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="volt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="volt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
