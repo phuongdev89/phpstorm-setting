@@ -1,7 +1,4 @@
-<code_scheme name="Default" version="173">
-  <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-  </PHPCodeStyleSettings>
+<code_scheme name="PSR12" version="173">
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="2" />
