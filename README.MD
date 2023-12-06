@@ -9,6 +9,6 @@ Plugins
 - Yii2 Support
 - Yii2 Inspections
 - Ideolog
-- Bootstrap 3
 - Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro live templates/snippets
 - YAML/Ansible support
+- Machinet
