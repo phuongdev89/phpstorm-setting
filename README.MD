@@ -4,11 +4,20 @@ Plugins
 - Symfony Support
 - PHP Annotations
 - PHP Advanced AutoComplete
+- PHP Toolbox
 - deep-assoc-completion
 - .ignore
 - Yii2 Support
 - Yii2 Inspections
+- Yii2 Url
 - Ideolog
 - Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro live templates/snippets
 - YAML/Ansible support
 - Machinet
+- .env
+- Better Comments
+- CamelCase
+- CMD Support
+- Dev Containers
+- Neon Support
+- Regexp Tester
