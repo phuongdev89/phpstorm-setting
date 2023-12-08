@@ -5,4 +5,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="com.github.evgenys91.machinet.common.chat.GatherErrorsAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="com.github.evgenys91.machinet.common.chat.SelectionSendToChatAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
