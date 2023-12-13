@@ -14,6 +14,7 @@
       <mapping pattern="git" type="AUTO_DETECTED" />
       <mapping pattern="q4a2v9sfmao4fi34op4li3ofmi" type="AUTO_DETECTED" />
       <mapping pattern="redis_init_script" type="AUTO_DETECTED" />
+      <mapping ext="mp4" type="AUTO_DETECTED" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Checking" type="PLAIN_TEXT" />
